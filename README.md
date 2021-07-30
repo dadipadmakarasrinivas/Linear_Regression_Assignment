@@ -12,4 +12,7 @@ You are required to model the demand for shared bikes with the available indepen
 <br /> 6. Recommendations using model and performance metrics to the model
 <br /> 7. Model metrics Testing.
 
+# EDA:
+<br /> 1. Univariate Analysis
+<br /> 2. Multivariate Analysis.
 
