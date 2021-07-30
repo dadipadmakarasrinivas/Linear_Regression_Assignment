@@ -5,11 +5,11 @@ You are required to model the demand for shared bikes with the available indepen
 
 # Assignment Flow:
 1.Data Cleaning
-2. Explotorary Data Analysis(EDA)
-3. Data Transformation
-4. Model Building
-5. Model deployment using flask /heroku and make front end.
-6. Recommendations using model and performance metrics to the model
-7. Model metrics Testing.
+<br /> 2. Explotorary Data Analysis(EDA)
+<br /> 3. Data Transformation
+<br /> 4. Model Building
+<br /> 5. Model deployment using flask /heroku and make front end.
+<br /> 6. Recommendations using model and performance metrics to the model
+<br /> 7. Model metrics Testing.
 
 
